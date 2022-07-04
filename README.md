@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Milton Chan
-- I'm working as an Data Scientist focusing on digital growth of an app 
-- which cultivate healthy ecostystem releasing by a Bank
+- I'm currently working as an Data Scientist focusing on digital growth of an app which cultivate healthy ecostystem releasing by a Bank
+- 
+- Previously, I had been as a co-author to publish academic paper, which I contribute on the data analysis part (t-test, chi-square test, ANOVA, unsupervised clustering, regularized elastic-net regression etc.)
 - 👀 I’m interested in applying machine learning on financial data (trading data)
 - 🌱 I’m currently learning Deep learning & time-series financial data modellling
 - 💞️ I’m looking to collaborate on Algo-trading
