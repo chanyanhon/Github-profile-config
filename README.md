@@ -7,7 +7,6 @@
   - establishing development environments with MLOps best practices (setting up CI/CD pipelines, managing Dockerfiles, and implementing Git version control)
 
 - Previously, I have had been as a co-author to publish academic paper, which I contribute on the data analysis part (t-test, chi-square test, ANOVA, unsupervised clustering, regularized elastic-net regression etc.)
-
 Related publications:
 -- https://tinyurl.com/wjpk3j5p (A/B testing & step-wise logistics regression)
 -- https://tinyurl.com/m6b2w4p9 (Factor analysis by structural-equation model)
