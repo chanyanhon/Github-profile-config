@@ -1,7 +1,13 @@
-- 👋 Hi, I’m Milton Chan
-- I'm currently working as an Data Scientist focusing on digital growth for an app which cultivate healthy ecostystem released by an insurance company
+- 👋 Hello, I'm Milton Chan, a Data Scientist based in Hong Kong. I hold a degree in Statistics from The University of Hong Kong, which has provided me with a solid foundation in mathematical and statistical principles, contributing significantly to my career in machine learning and data science.
+
+- My professional focus encompasses various aspects of data science and machine learning, including
+- - data architecture design (datalake / lakehouse storage and compute),
+  - resource management (workflow orchestration with AWS step function),
+  - ML platform administration (utilizing & monitoring SageMaker for ML pipeline processing & prediction), and
+  - establishing development environments with MLOps best practices (setting up CI/CD pipelines, managing Dockerfiles, and implementing Git version control)
+
+- Previously, I have had been as a co-author to publish academic paper, which I contribute on the data analysis part (t-test, chi-square test, ANOVA, unsupervised clustering, regularized elastic-net regression etc.)
 - 
-- Previously, I had been as a co-author to publish academic paper, which I contribute on the data analysis part (t-test, chi-square test, ANOVA, unsupervised clustering, regularized elastic-net regression etc.)
 - 👀 I’m interested in applying machine learning to boost business values, e.g. Churn model, survival analysis, clustering
 - 🌱 I’m currently learning building Recommnedation engine for products
 - 💞️ I’m looking to collaborate on anything interesting & related to AI/ML
