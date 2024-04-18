@@ -31,7 +31,7 @@ I am eager to collaborate on any interesting projects related to AI/ML. If you h
 
 📫 **Contact**:
 
-You can easily reach out to me right here on GitHub for any inquiries or collaboration opportunities.
+You can easily reach out to me right here on GitHub for any inquiries or collaboration opportunities. 
 
 <!---
 chanyanhon/chanyanhon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
